@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @singlarahul3845
+# 👋 Hi, I’m Rahul Singla
 
 ## About Me
 I'm an AI Automation Executive at SlideTech Systems. I started my journey as an SEO Intern, manually publishing blogs — until curiosity led me to automate my own tasks using Python and AI tools.  
