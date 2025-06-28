@@ -1,14 +1,24 @@
 # 👋 Hi, I’m @singlarahul3845
 
 ## About Me
-I'm an SEO Executive and Frontend Developer with skills in HTML, CSS, and vanilla JavaScript. Currently, I'm expanding my expertise by learning more advanced web development technologies and tools.
+I'm an AI Automation Executive at SlideTech Systems. I started my journey as an SEO Intern, manually publishing blogs — until curiosity led me to automate my own tasks using Python and AI tools.  
+With no coding background at first, I learned by breaking down workflows, using tools like ChatGPT, and building real-time automation solutions that saved hours of manual work.
+
+Today, I build tools that automate content workflows, extract and analyze data, and support decision-making for SEO and content teams. I’m also diving deeper into data analytics and backend development.
 
 ## Interests
-- 👀 I’m interested in web development, SEO strategies, and digital marketing.
-- 🌱 I’m currently learning advanced JavaScript frameworks like React and Vue.js, and diving into backend development with Node.js.
+- 👀 I’m interested in automation, AI-powered tools, SEO analytics, and smart dashboard development.
+- 🌱 I’m currently learning SQL, Pandas, NumPy, Power BI, and Tableau — along with backend integration for scalable automation.
+
+## Projects I've Built
+- ✅ Scrapers, blog automation tools, metadata generators, and content analyzers using Python
+- ✅ Keyword Engine Dashboard with 4 modules: Keyword Trend, URL Trend, Compare Month, and Tension Analysis
+- ✅ Email automation system hosted on AWS, running on a 30-minute cycle
+- ✅ GUI tools for internal teams to simplify daily workflows
 
 ## Collaboration
-- 💞️ I’m looking to collaborate on web development projects, especially those focused on creating seamless and optimized user experiences. I’m also open to contributing to open-source projects.
+- 💞️ I’m looking to collaborate on Python-based automation, SEO analytics dashboards, and tools that make teams more efficient.  
+I'm also open to contributing to AI/data-driven open-source projects.
 
 ## Contact Me
 - 📫 How to reach me:
@@ -19,9 +29,10 @@ I'm an SEO Executive and Frontend Developer with skills in HTML, CSS, and vanill
 - 😄 Pronouns: He/Him
 
 ## Fun Fact
-- ⚡ Fun fact: Did you know that the first website ever created is still online? It was created by Tim Berners-Lee, the inventor of the World Wide Web, and you can check it out [here](http://info.cern.ch/hypertext/WWW/TheProject.html).
+- ⚡ Fun fact: I built my first automation with zero coding experience — just curiosity, ChatGPT, and trial-and-error.
 
 ## More About Me
-In addition to my technical skills, I have a keen interest in staying updated with the latest trends in web development and SEO. I love experimenting with new technologies and finding innovative solutions to improve website performance and user engagement.
+I believe that automation isn't just for coders — it's for problem solvers.  
+I enjoy experimenting with AI tools, creating custom scripts for real use cases, and continuously learning how to turn data and workflows into powerful automation systems.
 
-Feel free to connect with me for any project collaboration or just to have a chat about web development and SEO!
+Let’s connect and build smarter solutions together!
