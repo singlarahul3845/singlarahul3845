@@ -2,7 +2,7 @@
 
 ## About Me
 I'm an AI Automation Executive at SlideTech Systems. I started my journey as an SEO Intern, manually publishing blogs — until curiosity led me to automate my own tasks using Python and AI tools.  
-With no coding background at first, I learned by breaking down workflows, using tools like ChatGPT, and building real-time automation solutions that saved hours of manual work.
+With no coding background at first, I learned by breaking problems into smaller parts on my own, then using tools like ChatGPT,Claude, Deepseek to speed up development. This approach helped me build real-time automation solutions that saved hours of manual work.
 
 Today, I build tools that automate content workflows, extract and analyze data, and support decision-making for SEO and content teams. I’m also diving deeper into data analytics and backend development.
 
